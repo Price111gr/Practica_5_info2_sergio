@@ -1,0 +1,11 @@
+release/bomba.o
+release/bullet.o
+release/explote.o
+release/main.o
+release/mainwindow.o
+release/muro.o
+release/soldado.o
+release/qrc_resorces.o
+release/moc_bomba.o
+release/moc_mainwindow.o
+release/moc_soldado.o

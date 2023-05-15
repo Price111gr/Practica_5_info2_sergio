@@ -1,0 +1,11 @@
+debug/bomba.o
+debug/bullet.o
+debug/explote.o
+debug/main.o
+debug/mainwindow.o
+debug/muro.o
+debug/soldado.o
+debug/qrc_resorces.o
+debug/moc_bomba.o
+debug/moc_mainwindow.o
+debug/moc_soldado.o
