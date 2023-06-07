@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Sprites"/>
+    <qresource prefix="/">
+        <file>Sprites/image-w856.png</file>
+        <file>Sprites/slayer.jpg</file>
+        <file>Sprites/slayer2.jpg</file>
+        <file>musica/Blood Red.mp3</file>
+        <file>musica/Piece By Piece.mp3</file>
+        <file>Sprites/notas.png</file>
+        <file>Sprites/slayer_0.jpg</file>
+        <file>Sprites/nota1.png</file>
+        <file>Sprites/nota2.png</file>
+        <file>Sprites/nota3.png</file>
+        <file>Sprites/nota4.png</file>
+        <file>Sprites/282905_spacefader_sprite.gif</file>
+        <file>Sprites/preist1.png</file>
+        <file>Sprites/preist2.png</file>
+        <file>Sprites/preist3.png</file>
+        <file>Sprites/preist4.png</file>
+        <file>Sprites/preist5.png</file>
+        <file>Sprites/preist6.png</file>
+        <file>Sprites/preist7.png</file>
+        <file>Sprites/preist8.png</file>
+        <file>Sprites/zyro-image.png</file>
+        <file>Sprites/back.png</file>
+        <file>Sprites/back (1).png</file>
+    </qresource>
+</RCC>
